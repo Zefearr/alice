@@ -10,8 +10,8 @@
 *~
 *.sass-cache
 node_modules/
-.tmp/
-config.js
+.tmp/ 
+config.json 
 # OS or Editor folders
 .DS_Store
 Thumbs.db
